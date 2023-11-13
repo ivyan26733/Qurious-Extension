@@ -1,0 +1,5 @@
+Should be available on all websites
+Should be invoked via a button, keyboard shortcut or voice command
+Should take input via a voice command or text to know what to do
+Should be able to handle non-precise input smartly
+Should be able to give the list of places, people, comapnies in the current web page

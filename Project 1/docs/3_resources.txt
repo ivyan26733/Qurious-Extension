@@ -1,0 +1,11 @@
+Assumptions -> You already know any programming language
+
+->HTML(4hrs)
+->CSS(8hrs)
+->JS(12hrs)
+
+
+Chrome Extension -> From official Sources
+https://developer.chrome.com/docs/extensions/mv3/getstarted/
+
+ 

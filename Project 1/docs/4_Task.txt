@@ -1,0 +1,6 @@
+1) Show a button on all websites
+
+
+2) Start listening on btn click and stop on btn click again, Sipaly transcript on console. (Speech to text)
+3) Display transcript on popup
+4) The btn clicks should also happen via a keyboard shortcuts

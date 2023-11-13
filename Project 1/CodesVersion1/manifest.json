@@ -1,0 +1,22 @@
+{
+    "name": "Ivyan Talkbox",
+    "description": "A chrome extension for efficient Internet browsing",
+    "version": "1.0", 
+    "manifest_version": 3,
+    "icons": {
+      "48": "images/ivyan-48.png",
+      "96": "images/ivyan-96.png",
+      "108": "images/ivyan-108.png",
+      "120": "images/ivyan-120.png"
+    },
+    "content_scripts": [
+      {
+        "js": ["scripts/content.js"],
+        "css": ["scripts/content.css"],
+        "matches": [
+          "*://*/*"
+        ]
+      }
+    ]
+  }
+  
