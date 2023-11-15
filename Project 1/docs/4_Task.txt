@@ -1,6 +1,10 @@
-1) Show a button on all websites
+Basic setup and hello world
+Show a button on all websites
+Visual cues of clickability on the button
+Start fake listening on btn click and stop fake listening on next
+Visual cues of listening on the button
 
-
-2) Start listening on btn click and stop on btn click again, Sipaly transcript on console. (Speech to text)
-3) Display transcript on popup
-4) The btn clicks should also happen via a keyboard shortcuts
+PENDING
+Start real listening on btn click and stop on btn click again
+Display captured transcript on popup
+The btn clicks should also happen via a kbd shortcut
